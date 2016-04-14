@@ -1,0 +1,3 @@
+[submodule "libs/libA"]
+	path = libs/libA
+	url = https://github.com/junmiao/libs.git
